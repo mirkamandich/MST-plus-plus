@@ -2,5 +2,8 @@ dataset
 /test_develop_code/exp/mst_plus_plus
 /test_develop_code/model_zoo
 /test_challenge_code/model_zoo
+/test_challenge_code/exp/mst_plus_plus
 /predict_code/model_zoo
+/predict_code/exp/mst_plus_plus
 /train_code/model_zoo
+/train_code/exp/mst_plus_plus
